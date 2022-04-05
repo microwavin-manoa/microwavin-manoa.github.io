@@ -51,8 +51,12 @@ After logging in, you are able to view your profile, where you have your added r
 
 ![userprofile](/images/userProfile.png)
 
-### Admin Edit page
+### Admin profile page
 ![admin](/images/admin.png)
+
+### Vendor profile page
+
+![vendorProfile](/images/vendorProfile.png)
 
 ### Add recipe page
 After logging in, Users are able to add recipes
