@@ -28,16 +28,21 @@ The landing page is the first page presented when users visit the URL.
 ![landing](/images/landing.png)
 
 ### Sign In and Sign Up page
-You are able to "Login" by clicking the button on the upper right button on the navbar. 
+If you were previously registeres, you are able to "Login" by clicking the button on the upper right button on the navbar.
+If not, you are able to make an account by clicking "Sign up".
 
 ![singin](/images/signIn.png)
+
 ### User home page
+
 ![userprofile](/images/userProfile.png)
 
 ### Admin home page
+
 ![admin](/images/admin.png)
 
 ### Vendor home page
+
 ![vendor](/images/vendorLanding.png)
 
 ### User profile page
@@ -45,15 +50,19 @@ After logging in, you are able to view your profile, where you have your added r
 ![userprofile](/images/userProfile.png)
 
 ### Add recipe page
+
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
+
 ![searchrecipe](/images/searchRecipes.png)
 
 ### Edit recipe page
+
 ![editrecipe](/images/editRecipe.png)
 
 ### Individual recipe page
+
 ![indivrecipe](/images/indivRecipe.png)
 
 
