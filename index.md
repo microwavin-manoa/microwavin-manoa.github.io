@@ -41,11 +41,11 @@ You are able to "Login" by clicking the button on the upper right button on the 
 After logging in, you are able to view your profile, where you have your added recipes.
 ![userprofile](/images/userProfile.png)
 ### Add recipe page
-
+![addrecipe](/images/addRecipe.png)
 ### Search recipe page
 
 ### Edit recipe page
-
+![editrecipe](/images/editRecipe.png)
 ### Individual recipe page
 
 Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/) I'm here uwu
