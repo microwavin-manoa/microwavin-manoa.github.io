@@ -40,11 +40,12 @@ After successfully logging in, the system takes you to user home page. It is lik
 ![userlanding](/images/userLanding.png)
 
 ### Admin home page
-When a user has the admin role, they have an 'Admin' link in the navbar that lets them view and edit all recipes for all users. 
+When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users. 
 
 ![adminLanding](/images/adminLanding.png)
 
 ### Vendor home page
+When the user is a vendor, they have a 'Stock' link in their NavBar that let's them edit their stock
 
 ![vendor](/images/vendorLanding.png)
 
@@ -54,9 +55,12 @@ After logging in, you are able to view your profile, where you have your added r
 ![userprofile](/images/userProfile.png)
 
 ### Admin profile page
+After logging in, admin can view and edit any recipe from any user.
+
 ![admin](/images/admin.png)
 
 ### Vendor profile page
+Vendor's can edit thier profile page which show all the information regarding their store. This includes the store's name, location, hours, stock of items, and the price for each item. There is also a picture of the store so people know what it looks like
 
 ![vendorProfile](/images/vendorProfile.png)
 
