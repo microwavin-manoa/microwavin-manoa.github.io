@@ -30,7 +30,7 @@ The landing page is the first page presented when users visit the URL.
 ### Sign In and Sign Up page
 You are able to "Login" by clicking the button on the upper right button on the navbar. 
 
-
+![singin](/images/signIn.png)
 ### User home page
 ![userprofile](/images/userProfile.png)
 
