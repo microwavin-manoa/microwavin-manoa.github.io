@@ -29,7 +29,7 @@ The landing page is the first page presented when users visit the URL.
 ![landing](/images/landing.png)
 
 ### Sign In and Sign Up page
-If you were previously registeres, you are able to "Login" by clicking the button on the upper right button on the navbar.
+If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
 ![singin](/images/signIn.png)
@@ -51,7 +51,7 @@ After logging in, you are able to view your profile, where you have your added r
 ![userprofile](/images/userProfile.png)
 
 ### Add recipe page
-
+After logging in, Users are able to add recipes
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
