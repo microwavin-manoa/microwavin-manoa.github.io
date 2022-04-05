@@ -48,10 +48,12 @@ If not, you are able to make an account by clicking "Sign up".
 
 ### User profile page
 After logging in, you are able to view your profile, where you have your added recipes.
+
 ![userprofile](/images/userProfile.png)
 
 ### Add recipe page
 After logging in, Users are able to add recipes
+
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
