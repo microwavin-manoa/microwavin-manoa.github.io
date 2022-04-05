@@ -48,7 +48,7 @@ After logging in, you are able to view your profile, where you have your added r
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
-![searchrecipe](/images/searchRecipe.png)
+![searchrecipe](/images/searchRecipes.png)
 
 ### Edit recipe page
 ![editrecipe](/images/editRecipe.png)
