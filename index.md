@@ -36,7 +36,7 @@ If not, you are able to make an account by clicking "Sign up".
 
 ### User home page
 
-![userprofile](/images/userProfile.png)
+![userlanding](/images/userLanding.png)
 
 ### Admin home page
 
