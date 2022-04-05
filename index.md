@@ -34,12 +34,12 @@ You are able to "Login" by clicking the button on the upper right button on the 
 ### User home page
 
 ### Admin home page
-
+![admin](/images/admin.png)
 ### Vendor home page
-
+![vendor](/images/vendor.png)
 ### User profile page
 After logging in, you are able to view your profile, where you have your added recipes.
-
+![userprofile](/images/userProfile.png)
 ### Add recipe page
 
 ### Search recipe page
