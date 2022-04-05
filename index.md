@@ -40,7 +40,7 @@ If not, you are able to make an account by clicking "Sign up".
 
 ### Admin home page
 
-![admin](/images/admin.png)
+![adminLanding](/images/adminLanding.png)
 
 ### Vendor home page
 
