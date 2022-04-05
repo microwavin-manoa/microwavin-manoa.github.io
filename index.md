@@ -21,6 +21,7 @@ Technologies we plan on using for "Microwavin Manoa":
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## User Guide
+A walkthrough for the Microwavin Manoa user interface.
 
 ### Landing page
 
