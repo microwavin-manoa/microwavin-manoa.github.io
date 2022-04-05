@@ -26,7 +26,7 @@ Technologies we plan on using for "Microwavin Manoa":
 
 The landing page is the first page presented when users visit the URL.
 
-### Sign in/ Sign out page
+### Sign in and Sign out page
 
 ### User home page
 
