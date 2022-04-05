@@ -48,5 +48,5 @@ After logging in, you are able to view your profile, where you have your added r
 
 ### Individual recipe page
 
-Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
+Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/) I'm here uwu
 [Team Contract](https://docs.google.com/document/d/1M3Itsauhm6VcdMkSpO9jBSF_vA0zvCPWDgKkCVhjftk/edit?usp=sharing)
