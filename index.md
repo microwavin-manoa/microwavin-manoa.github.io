@@ -38,7 +38,7 @@ You are able to "Login" by clicking the button on the upper right button on the 
 ![admin](/images/admin.png)
 
 ### Vendor home page
-![vendor](/images/vendor.png)
+![vendor](/images/vendorLanding.png)
 
 ### User profile page
 After logging in, you are able to view your profile, where you have your added recipes.
@@ -54,6 +54,8 @@ After logging in, you are able to view your profile, where you have your added r
 ![editrecipe](/images/editRecipe.png)
 
 ### Individual recipe page
+![indivrecipe](/images/indivRecipe.png)
+
 
 Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
 [Team Contract](https://docs.google.com/document/d/1M3Itsauhm6VcdMkSpO9jBSF_vA0zvCPWDgKkCVhjftk/edit?usp=sharing)
