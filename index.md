@@ -35,10 +35,12 @@ If not, you are able to make an account by clicking "Sign up".
 ![singin](/images/signIn.png)
 
 ### User home page
+After successfully logging in, the system takes you to user home page. It is like the landing page, but the NavBar contains links to search recipe and add recipe. You can also view your profile by clicking the option 'view profile' after clicking the user's name:
 
 ![userlanding](/images/userLanding.png)
 
 ### Admin home page
+When a user has the admin role, they have an 'Admin' link in the navbar that lets them view and edit all recipes for all users. 
 
 ![adminLanding](/images/adminLanding.png)
 
