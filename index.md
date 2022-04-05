@@ -25,10 +25,5 @@ Technologies we plan on using for "Microwavin Manoa":
 
 mockup pages here
 
-### Team
-* [Kailee Hung](https://kaileehung.github.io/)
-* [Carol Wong](https://carolwong492.github.io/)
-* [Jiahui Liao](https://jiahuiliao.github.io/)
-* [Kristyn Mimura](https://kristyn-mimura.github.io/)
-
+### Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
 [Team Contract](https://docs.google.com/document/d/1M3Itsauhm6VcdMkSpO9jBSF_vA0zvCPWDgKkCVhjftk/edit?usp=sharing)
