@@ -32,6 +32,7 @@ You are able to "Login" by clicking the button on the upper right button on the 
 
 
 ### User home page
+![userprofile](/images/userProfile.png)
 
 ### Admin home page
 ![admin](/images/admin.png)
@@ -47,6 +48,7 @@ After logging in, you are able to view your profile, where you have your added r
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
+![searchrecipe](/images/searchRecipe.png)
 
 ### Edit recipe page
 ![editrecipe](/images/editRecipe.png)
