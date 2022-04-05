@@ -1,6 +1,16 @@
 ## Microwavin Manoa
 
-description here
+The problem: Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines.
+
+The solution: Toaster Oven Lovin’ creates a way for students (on-campus or off) to learn and share recipes that:
+
+* Can be made using minimal kitchen facilities (at a minimum, a toaster oven).
+* Can be made out of ingredients that are available within walking distance of UH.
+* Suit local taste sensibilities.
+* Can be filtered via dietary restrictions (gluten-free, vegan, etc).
+* Have an estimated cost per serving.
+* Has an estimated number of servings per recipe.
+* Has an estimate of how long it takes to make.
 
 * [GitHub Organization](https://github.com/microwavin-manoa) of Microwavin-Manoa containing all its repositories.
 
@@ -16,7 +26,9 @@ Technologies we plan on using for "Microwavin Manoa":
 mockup pages here
 
 ### Team
-* [Kailee Hung](https://kaileehung.github.io/).
-* [Carol Wong](https://carolwong492.github.io/).
-* [Jiahui Liao](https://jiahuiliao.github.io/).
-* [Kristyn Mimura](https://kristyn-mimura.github.io/).
+* [Kailee Hung](https://kaileehung.github.io/)
+* [Carol Wong](https://carolwong492.github.io/)
+* [Jiahui Liao](https://jiahuiliao.github.io/)
+* [Kristyn Mimura](https://kristyn-mimura.github.io/)
+
+[Team Contract](https://docs.google.com/document/d/1M3Itsauhm6VcdMkSpO9jBSF_vA0zvCPWDgKkCVhjftk/edit?usp=sharing)
