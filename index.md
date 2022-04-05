@@ -55,6 +55,7 @@ After logging in, Users are able to add recipes
 ![addrecipe](/images/addRecipe.png)
 
 ### Search recipe page
+On this page you can search for recipes by name or filter search by tags. 
 
 ![searchrecipe](/images/searchRecipes.png)
 
