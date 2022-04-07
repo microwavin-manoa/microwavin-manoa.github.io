@@ -3,7 +3,7 @@
 Many college students have limited kitchen resources, limited cooking skills, limited time, limited access to grocery stores, and no access to creative recipes that respect these constraints. As a result, college students spend money to eat out, or eat non-healthy foods at fast food places or through vending machines.
 
 Microwavin Manoa creates a way for students (on-campus or off) to learn and share recipes that:
-* Can be made using minimal kitchen facilities (at a minimum, a toaster oven).
+* Can be made using minimal kitchen facilities (at a minimum, a toaster oven, or a microwave!).
 * Can be made out of ingredients that are available within walking distance of UH.
 * Suit local taste sensibilities.
 * Can be filtered via dietary restrictions (gluten-free, vegan, etc).
@@ -84,6 +84,54 @@ Lists all the information for a recipe. It shows the name of the recipe, the dif
 
 ![indivrecipe](/images/indivRecipe.png)
 
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of Microwavin Manoa](https://github.com/microwavin-manoa/microwavin-manoa).
+
+Third, cd into the app directory and install the required libraries with:
+
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+$ meteor npm run start
+```
+
+### Note regarding "bcrypt warning":
+
+You might also get the following message when you run this application:
+
+```
+Note: you are using a pure-JavaScript implementation of bcrypt.
+While this implementation will work correctly, it is known to be
+approximately three times slower than the native implementation.
+In order to use the native implementation instead, run
+
+  meteor npm install --save bcrypt
+
+in the root directory of your application.
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/microwavin-manoa/microwavin-manoa/blob/master/config/settings.development.json), or else register a new account.
+
+### ESLint
+
+Lastly, you can run ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
 
 Team: [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
 * [Team Contract](https://docs.google.com/document/d/1M3Itsauhm6VcdMkSpO9jBSF_vA0zvCPWDgKkCVhjftk/edit?usp=sharing)
