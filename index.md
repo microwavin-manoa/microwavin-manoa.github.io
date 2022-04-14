@@ -26,23 +26,23 @@ A walkthrough for the Microwavin Manoa user interface.
 ### Landing page
 
 The landing page is the first page presented when users visit the URL.
-![landing](/images/landing.png)
+![landing](/images/MMlanding.png)
 
 ### Sign In and Sign Up page
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
-![singin](/images/signIn.png)
+![singin](/images/MMsignup.png)
 
 ### User home page
 After successfully logging in, the system takes you to user home page. It is like the landing page, but the NavBar contains links to search recipe and add recipe. You can also view your profile by clicking the option 'view profile' after clicking the user's name:
 
-![userlanding](/images/userLanding.png)
+![userlanding](/images/MMlandinguser.png)
 
 ### Admin home page
 When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users. 
 
-![adminLanding](/images/adminLanding.png)
+![adminLanding](/images/MMlandingadmin.png)
 
 ### Vendor home page
 When the user is a vendor, they have a 'Stock' link in their NavBar that let's them edit their stock
@@ -67,12 +67,12 @@ Vendor's can edit thier profile page which show all the information regarding th
 ### Add recipe page
 After logging in, Users are able to add recipes
 
-![addrecipe](/images/addRecipe.png)
+![addrecipe](/images/MMaddrecipe.png)
 
 ### Search recipe page
 On this page you can search for recipes by name or filter search by tags. 
 
-![searchrecipe](/images/searchRecipes.png)
+![searchrecipe](/images/MMsearchrecipe.png)
 
 ### Edit recipe page
 After clicking an edit button associated with a recipe, you can edit the parts of that recipe on this page.
@@ -82,7 +82,7 @@ After clicking an edit button associated with a recipe, you can edit the parts o
 ### Individual recipe page
 Lists all the information for a recipe. It shows the name of the recipe, the different tags it has, a picture of the food the recipe is for, a list of ingredients and their price depending on the store, availability at each store, and the steps for the recipe. 
 
-![indivrecipe](/images/indivRecipe.png)
+![indivrecipe](/images/MMrecipe.png)
 
 ## Installation
 
