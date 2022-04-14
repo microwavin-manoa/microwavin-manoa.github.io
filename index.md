@@ -20,6 +20,9 @@ Technologies we plan on using for "Microwavin Manoa":
 
 [GitHub Organization](https://github.com/microwavin-manoa) of Microwavin-Manoa containing all its repositories.
 
+## Deployment
+[Microwavin' Manoa](http://159.223.149.189/#/) website, deployed from Digital Ocean.
+
 ## User Guide
 A walkthrough for the Microwavin Manoa user interface.
 
