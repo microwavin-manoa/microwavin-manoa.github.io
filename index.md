@@ -87,6 +87,11 @@ Lists all the information for a recipe. It shows the name of the recipe, the dif
 
 ![indivrecipe](/images/MMrecipepage.png)
 
+### Admin edit page
+Users defined as admin are able to see all vendor profiles and recipes. They are able to edit this information.
+
+![adminedit](/images/MMadminedit.png)
+
 ## Installation
 
 First, [install Meteor](https://www.meteor.com/install).
