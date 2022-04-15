@@ -44,7 +44,7 @@ The landing page is the first page presented when users visit the URL.
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
-![singin](images/MMsignup.png)
+![singin](images/Screen Shot 2022-04-14 at 8.51.42 PM.png)
 
 ### User home page
 After successfully logging in, the system takes you to user home page. It is like the landing page, but the NavBar contains links to search recipe and add recipe. You can also view your profile by clicking the option 'view profile' after clicking the user's name:
