@@ -65,7 +65,7 @@ When the user is a vendor, they have a 'Stock' link in their NavBar that let's t
 ### User profile page
 After logging in, you are able to view your profile, where you have your added recipes.
 
-![userprofile](images/userProfile.png)
+![userprofile](images/MMmyrecipes.png)
 
 ### Admin profile page
 After logging in, admin can view and edit any recipe from any user.
@@ -78,7 +78,7 @@ Vendor's can edit thier profile page which show all the information regarding th
 ![vendorProfile](images/vendorProfile.png)
 
 ### Edit vendor profile page
-
+Users are able to edit vendor pages in order to update information.
 ![editvendor](images/Screen Shot 2022-04-14 at 9.02.17 PM.png)
 
 ### Add recipe page
