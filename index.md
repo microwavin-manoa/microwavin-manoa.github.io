@@ -79,7 +79,7 @@ Vendor's can edit thier profile page which show all the information regarding th
 
 ### Edit vendor profile page
 Users are able to edit vendor pages in order to update information.
-![editvendor](images/ScreenShot2022-04-14at9.02.17PM.png)
+![editvendor](images/MMeditvendor.png)
 
 ### Add recipe page
 After logging in, Users are able to add recipes
@@ -94,7 +94,7 @@ On this page you can search for recipes by name or filter search by tags.
 ### Edit recipe page
 After clicking an edit button associated with a recipe, you can edit the parts of that recipe on this page.
 
-![editrecipe](images/ScreenShot2022-04-14at8.58.58PM.png)
+![editrecipe](images/MMeditrecipe.png)
 
 ### Individual recipe page
 Lists all the information for a recipe. It shows the name of the recipe, the different tags it has, a picture of the food the recipe is for, a list of ingredients and their price depending on the store, availability at each store, and the steps for the recipe. 
