@@ -70,7 +70,7 @@ After logging in, you are able to view your profile, where you have your added r
 ### Admin profile page
 After logging in, admin can view and edit any recipe from any user.
 
-![admin](images/admin.png)
+![admin](images/MMadminedit.png)
 
 ### Vendor profile page
 Vendor's can edit thier profile page which show all the information regarding their store. This includes the store's name, location, hours, stock of items, and the price for each item. There is also a picture of the store so people know what it looks like
@@ -79,7 +79,7 @@ Vendor's can edit thier profile page which show all the information regarding th
 
 ### Edit vendor profile page
 Users are able to edit vendor pages in order to update information.
-![editvendor](images/Screen Shot 2022-04-14 at 9.02.17 PM.png)
+![editvendor](images/ScreenShot2022-04-14at9.02.17PM.png)
 
 ### Add recipe page
 After logging in, Users are able to add recipes
@@ -94,17 +94,12 @@ On this page you can search for recipes by name or filter search by tags.
 ### Edit recipe page
 After clicking an edit button associated with a recipe, you can edit the parts of that recipe on this page.
 
-![editrecipe](images/Screen Shot 2022-04-14 at 8.58.58 PM.png)
+![editrecipe](images/ScreenShot2022-04-14at8.58.58PM.png)
 
 ### Individual recipe page
 Lists all the information for a recipe. It shows the name of the recipe, the different tags it has, a picture of the food the recipe is for, a list of ingredients and their price depending on the store, availability at each store, and the steps for the recipe. 
 
 ![indivrecipe](images/MMrecipepage.png)
-
-### Admin edit page
-Users defined as admin are able to see all vendor profiles and recipes. They are able to edit this information.
-
-![adminedit](images/MMadminedit.png)
 
 ## Community Feedback
 Coming soon!
