@@ -37,68 +37,68 @@ A walkthrough for the Microwavin Manoa user interface.
 ### Landing page
 
 The landing page is the first page presented when users visit the URL.
-![landing](/images/MMlanding.png)
+![landing](images/MMlanding.png)
 
 ### Sign In and Sign Up page
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
-![singin](/images/MMsignup.png)
+![singin](images/MMsignup.png)
 
 ### User home page
 After successfully logging in, the system takes you to user home page. It is like the landing page, but the NavBar contains links to search recipe and add recipe. You can also view your profile by clicking the option 'view profile' after clicking the user's name:
 
-![userlanding](/images/MMlandinguser.png)
+![userlanding](images/MMlandinguser.png)
 
 ### Admin home page
 When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users. 
 
-![adminLanding](/images/MMlandingadmin.png)
+![adminLanding](images/MMlandingadmin.png)
 
 ### Vendor home page
 When the user is a vendor, they have a 'Stock' link in their NavBar that let's them edit their stock
 
-![vendor](/images/vendorLanding.png)
+![vendor](images/vendorLanding.png)
 
 ### User profile page
 After logging in, you are able to view your profile, where you have your added recipes.
 
-![userprofile](/images/userProfile.png)
+![userprofile](images/userProfile.png)
 
 ### Admin profile page
 After logging in, admin can view and edit any recipe from any user.
 
-![admin](/images/admin.png)
+![admin](images/admin.png)
 
 ### Vendor profile page
 Vendor's can edit thier profile page which show all the information regarding their store. This includes the store's name, location, hours, stock of items, and the price for each item. There is also a picture of the store so people know what it looks like
 
-![vendorProfile](/images/vendorProfile.png)
+![vendorProfile](images/vendorProfile.png)
 
 ### Add recipe page
 After logging in, Users are able to add recipes
 
-![addrecipe](/images/MMaddrecipe.png)
+![addrecipe](images/MMaddrecipe.png)
 
 ### Search recipe page
 On this page you can search for recipes by name or filter search by tags. 
 
-![searchrecipe](/images/MMsearchrecipe.png)
+![searchrecipe](images/MMsearchrecipe.png)
 
 ### Edit recipe page
 After clicking an edit button associated with a recipe, you can edit the parts of that recipe on this page.
 
-![editrecipe](/images/editRecipe.png)
+![editrecipe](images/editRecipe.png)
 
 ### Individual recipe page
 Lists all the information for a recipe. It shows the name of the recipe, the different tags it has, a picture of the food the recipe is for, a list of ingredients and their price depending on the store, availability at each store, and the steps for the recipe. 
 
-![indivrecipe](/images/MMrecipepage.png)
+![indivrecipe](images/MMrecipepage.png)
 
 ### Admin edit page
 Users defined as admin are able to see all vendor profiles and recipes. They are able to edit this information.
 
-![adminedit](/images/MMadminedit.png)
+![adminedit](images/MMadminedit.png)
 
 ## Community Feedback
 Coming soon!
@@ -172,19 +172,16 @@ The following sections document the development history of Microwavin Manoa.
 
 ### Milestone 1
 
-The goal of Milestone 1 to form an idea how the site would be set up along with developing mockups for the pages and starting work on the different Mongo collections
+The goal of Milestone 1 to form an idea how the site would be set up along with developing very basic mockups for the pages and starting work on the different Mongo collections
 
 Milestone 1 was managed using [Microwavin Manoa GitHub Project Board M1](https://github.com/microwavin-manoa/microwavin-manoa/projects/1):
-
 ![](images/M1.png)
 
 ### Milestone 2
 
-The goal of Milestone 2 was to implement the data model: the underlying set of Mongo Collections and the operations upon them that would support the BowFolio application.
+Milestone 2 is currently being managed using [Microwavin Manoa GitHub Project Board M2](https://github.com/microwavin-manoa/microwavin-manoa/projects/2):
 
-Milestone 2 was managed using [Microwavin Manoa GitHub Project Board M2](https://github.com/microwavin-manoa/microwavin-manoa/projects/2):
-
-## Milestone 3
+### Milestone 3
 
 Coming soon!
 
