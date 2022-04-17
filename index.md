@@ -75,7 +75,7 @@ After logging in, admin can view and edit any recipe from any user.
 ### Vendor profile page
 Vendor's can edit thier profile page which show all the information regarding their store. This includes the store's name, location, hours, stock of items, and the price for each item. There is also a picture of the store so people know what it looks like
 
-![vendorProfile](images/vendorProfile.png)
+![vendorProfile](images/MMvendorprof.png)
 
 ### Edit vendor profile page
 Users are able to edit vendor pages in order to update information.
