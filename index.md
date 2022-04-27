@@ -30,76 +30,83 @@ Technologies we plan on using for "Microwavin Manoa":
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
 ## Deployment
-[Microwavin' Manoa](http://159.223.149.189/#/) website, deployed from Digital Ocean.
+[Microwavin' Manoa](https://microwavinmanoa.me/#/) website, deployed from Digital Ocean.
 
 ## User Guide
 A walkthrough for the Microwavin Manoa user interface.
 
-### Landing page
+### Landing Page
 
 The landing page is the first page presented when users visit the URL.
-![landing](images/MMlanding.png)
+![landing](images/landing.png)
 
-### Sign In and Sign Up page
+### Signup and Signin Page
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
-![signup](images/MMsignup.png)
-![signin](images/MMsignin.png)
+<img style="float: left; width: 49%;" src="images/signup.png"/>
+<img style="float: right; width: 49%;" src="images/signin.png"/>
 
-### User home page
-After successfully logging in, the system takes you to user home page. It is like the landing page, but the NavBar contains links to search recipe and add recipe. You can also view your profile by clicking the option 'view profile' after clicking the user's name:
+### User Home Page
+After successfully logging in as a User, the system takes you to user home page. It is like the landing page, but the NavBar contains links to add recipe, search recipe, all vendors, and my recipes.
 
-![userlanding](images/MMlandinguser.png)
+![userlanding](images/userhomepage.png)
 
-### Admin home page
-When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users. 
+### Admin Home Page
+When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users, along with the ability to add and edit vendors. 
 
-![adminLanding](images/MMlandingadmin.png)
+![adminLanding](images/adminhome.png)
 
-### Vendor home page
-When the user is a vendor, they have a 'Stock' link in their NavBar that let's them edit their stock
+### Add Recipe Page
+After logging in, Users and Admins are able to add recipes. If an ingredient that they want for the recipe is not already in the system, there is a popup to add an ingredient with a certain vendor and price. Now the ingredient will be available to select for the recipe's ingredients.
 
-![vendor](images/vendorLanding.png)
+![addrecipe](images/addrecipe.png)
 
-### User profile page
-After logging in, you are able to view your profile, where you have your added recipes.
+### Search Recipe Page
+On this page, Users or Admins can see all recipes in the system (alphabetized for easier lookup). Recipes can also be filtered by their respective tags.
 
-![userprofile](images/MMmyrecipes.png)
+![searchrecipe](images/searchrecipe.png)
 
-### Admin profile page
-After logging in, admin can view and edit any recipe from any user.
+### Individual Recipe Page
+Upon clicking a recipe, the page will display all information for that recipe. This includes the name, image, ingredients, tags, and description. Additionally, there is a table to easily look up all the required ingredients, where to get them, and at what price. This table includes the link to the vendor where the ingredient can be bought. Additionally, using this information, the lowest total cost to make a recipe is calculated using the lowest price for each ingredient.
 
-![admin](images/MMadminedit.png)
+![indivrecipe](images/recipepage.png)
 
-### Vendor profile page
-Vendor's can edit thier profile page which show all the information regarding their store. This includes the store's name, location, hours, stock of items, and the price for each item. There is also a picture of the store so people know what it looks like
+### All Vendors Page
+Both Users and Admins can access a page to see all the vendors in the system.
 
-![vendorProfile](images/vendorProfile.png)
+![allvendors](images/vendorspage.png)
 
-### Edit vendor profile page
-Users are able to edit vendor pages in order to update information.
-![editvendor](images/MMeditvendor.png)
+### Vendor Profile Page
+Upon clicking on a vendor, the page will display information for that vendor. This includes the name, image, address, hours, and all available ingredients and their prices. Here, the prices of ingredients can be updated, and new ingredients can be added to that particular store.
 
-### Add recipe page
-After logging in, Users are able to add recipes
+![vendorProfile](images/vendorprofile.png)
 
-![addrecipe](images/MMaddrecipe.png)
+### My Recipes Page
+On this page, Users have access to all the recipes they have created. Here, they can also edit the recipes they have made.
 
-### Search recipe page
-On this page you can search for recipes by name or filter search by tags. 
+![myrecipes](images/myrecipespage.png)
 
-![searchrecipe](images/MMsearchrecipe.png)
+### Admin Page
+On this page, Admins can see all recipes and vendors in the system. For easier navigation there is a tag on the side to navigate between the two. Here, recipes can be edited, and vendors can be added and edited.
 
-### Edit recipe page
-After clicking an edit button associated with a recipe, you can edit the parts of that recipe on this page.
+![myrecipes1](images/adminpage1.png)
+![myrecipes2](images/adminpage2.png)
 
-![editrecipe](images/MMeditrecipe.png)
+### Edit Recipe Page
+Both Users and Admins can be redirected to this page to edit an existing recipe.
 
-### Individual recipe page
-Lists all the information for a recipe. It shows the name of the recipe, the different tags it has, a picture of the food the recipe is for, a list of ingredients and their price depending on the store, availability at each store, and the steps for the recipe. 
+![myrecipes1](images/editrecipe.png)
 
-![indivrecipe](images/MMrecipepage.png)
+### Add Vendor Page
+Admins can add new vendors into the system with a name, address, image, and hours.
+
+![myrecipes1](images/addvendor.png)
+
+### Edit Vendor Page
+Admins can edit existing vendors.
+
+![myrecipes1](images/editvendor.png)
 
 ## Community Feedback
 Coming soon!
@@ -116,6 +123,10 @@ Third, cd into the app directory and install the required libraries with:
 
 ```
 $ meteor npm install
+```
+Additionally, you may need to run this command:
+```
+$ meteor npm install --save react-router-hash-link
 ```
 
 ### Running the system
@@ -173,18 +184,21 @@ The following sections document the development history of Microwavin Manoa.
 
 ### Milestone 1
 
-The goal of Milestone 1 to form an idea how the site would be set up along with developing very basic mockups for the pages and starting work on the different Mongo collections
+The goal of Milestone 1 to form an idea how the site would be set up along with developing very basic mockups for the pages and starting work on the different Mongo collections.
 
 Milestone 1 was managed using [Microwavin Manoa GitHub Project Board M1](https://github.com/microwavin-manoa/microwavin-manoa/projects/1):
 ![](images/M1.png)
 
 ### Milestone 2
 
-Milestone 2 is currently being managed using [Microwavin Manoa GitHub Project Board M2](https://github.com/microwavin-manoa/microwavin-manoa/projects/2):
+The goal of Milestone 2 was adding more functionality to the site by making various calls to the Mongo database. Another goal improve the overall UI design of the site.
+
+Milestone 2 was managed using [Microwavin Manoa GitHub Project Board M2](https://github.com/microwavin-manoa/microwavin-manoa/projects/2):
+add picture here!!!!
 
 ### Milestone 3
 
-Coming soon!
+Milestone 3 is currently being using [Microwavin Manoa GitHub Project Board M3](https://github.com/microwavin-manoa/microwavin-manoa/projects/3)
 
 ## Team
 * [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
