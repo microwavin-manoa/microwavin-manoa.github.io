@@ -194,7 +194,7 @@ Milestone 1 was managed using [Microwavin Manoa GitHub Project Board M1](https:/
 The goal of Milestone 2 was adding more functionality to the site by making various calls to the Mongo database. Another goal improve the overall UI design of the site.
 
 Milestone 2 was managed using [Microwavin Manoa GitHub Project Board M2](https://github.com/microwavin-manoa/microwavin-manoa/projects/2):
-add picture here!!!!
+![](images/M2.png)
 
 ### Milestone 3
 
