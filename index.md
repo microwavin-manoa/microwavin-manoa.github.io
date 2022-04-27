@@ -44,8 +44,11 @@ The landing page is the first page presented when users visit the URL.
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
+<div>
 <img alt="signup" style="float: left; width: 49%;" src="images/signup.png"/>
 <img alt="signin" style="float: right; width: 49%;" src="images/signin.png"/>
+<br>
+</div>
 
 ### User Home Page
 After successfully logging in as a User, the system takes you to user home page. It is like the landing page, but the NavBar contains links to add recipe, search recipe, all vendors, and my recipes.
@@ -68,7 +71,7 @@ On this page, Users or Admins can see all recipes in the system (alphabetized fo
 ![searchrecipe](images/searchrecipe.png)
 
 ### Individual Recipe Page
-Upon clicking a recipe, the page will display all information for that recipe. This includes the name, image, ingredients, tags, and description. Additionally, there is a table to easily look up all the required ingredients, where to get them, and at what price. This table includes the link to the vendor where the ingredient can be bought. Additionally, using this information, the lowest total cost to make a recipe is calculated using the lowest price for each ingredient.
+Upon clicking a recipe, the page will display all information for that recipe. This includes the name, image, ingredients, tags, and description. Additionally, there is a table to easily look up all the required ingredients, where to get them, and at what price. This table includes the link to the vendor where the ingredient can be bought. Using this information, the lowest total cost to make a recipe is calculated using the lowest price for each ingredient.
 
 ![indivrecipe](images/recipepage.png)
 
