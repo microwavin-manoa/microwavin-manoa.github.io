@@ -44,8 +44,8 @@ The landing page is the first page presented when users visit the URL.
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
-<img style="float: left; width: 49%;" src="images/signup.png"/>
-<img style="float: right; width: 49%;" src="images/signin.png"/>
+<img alt="signup" style="float: left; width: 49%;" src="images/signup.png"/>
+<img alt="signin" style="float: right; width: 49%;" src="images/signin.png"/>
 
 ### User Home Page
 After successfully logging in as a User, the system takes you to user home page. It is like the landing page, but the NavBar contains links to add recipe, search recipe, all vendors, and my recipes.
