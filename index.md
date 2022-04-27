@@ -44,9 +44,14 @@ The landing page is the first page presented when users visit the URL.
 If you were previously registered, you are able to "Login" by clicking the button on the upper right button on the navbar.
 If not, you are able to make an account by clicking "Sign up".
 
+<style>
+#image1 {float: left; width: 49%;}
+#image2 {float: right; width: 49%;}
+</style>
+
 <div>
-<img alt="signup" style="float: left; width: 49%;" src="images/signup.png"/>
-<img alt="signin" style="float: right; width: 49%;" src="images/signin.png"/>
+<img id="image1" alt="signup" src="images/signup.png"/>
+<img id="image2" alt="signin" src="images/signin.png"/>
 <br>
 </div>
 
