@@ -1,4 +1,7 @@
 # Microwavin Manoa
+
+![ci-badge](https://github.com/microwavin-manoa/microwavin-manoa/workflows/ci-meteor-application-template-react/badge.svg)
+
 ## Table of contents
 
 * [Overview](#overview)
