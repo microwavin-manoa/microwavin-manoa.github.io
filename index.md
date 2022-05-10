@@ -40,7 +40,7 @@ A walkthrough for the Microwavin Manoa user interface.
 
 ### Landing Page
 
-The landing page is the first page presented when users visit the URL.
+The landing page is the first page presented when users visit the URL. It gives users an overview of what can be done on the site, along with a section saying to create an account.
 ![landing](images/landing.png)
 
 ### Signup and Signin Page
@@ -51,12 +51,12 @@ If not, you are able to make an account by clicking "Sign up".
 ![signin](images/signin.png)
 
 ### User Home Page
-After successfully logging in as a User, the system takes you to user home page. It is like the landing page, but the NavBar contains links to add recipe, search recipe, all vendors, and my recipes.
+After successfully logging in as a User, the system takes you to user home page. It is like the landing page but without the section saying to create an account. The NavBar now contains links to add recipe, search recipe, all vendors, and my recipes.
 
 ![userlanding](images/userhomepage.png)
 
 ### Admin Home Page
-When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view and edit all recipes for all users, along with the ability to add and edit vendors. 
+When a user has the admin role, they have an 'Admin' link in the NavBar that lets them view, edit, and delete all recipes for all users, along with the ability to add, edit, and delete all vendors and ingredients. There is a new image communicating this to admins.
 
 ![adminLanding](images/adminhome.png)
 
@@ -66,12 +66,12 @@ After logging in, Users and Admins are able to add recipes. If an ingredient tha
 ![addrecipe](images/addrecipe.png)
 
 ### Search Recipe Page
-On this page, Users or Admins can see all recipes in the system (alphabetized for easier lookup). Recipes can also be filtered by their respective tags.
+On this page, Users or Admins can see all recipes in the system (alphabetized for easier lookup). Recipes can also be filtered by their respective tags and ingredients. There is also a button to see a random recipe.
 
 ![searchrecipe](images/searchrecipe.png)
 
 ### Individual Recipe Page
-Upon clicking a recipe, the page will display all information for that recipe. This includes the name, image, ingredients, tags, and description. Additionally, there is a table to easily look up all the required ingredients, where to get them, and at what price. This table includes the link to the vendor where the ingredient can be bought. Using this information, the lowest total cost to make a recipe is calculated using the lowest price for each ingredient.
+Upon clicking a recipe, the page will display all information for that recipe. This includes the name, image, ingredients, tags, serving size, prep time, and description. Additionally, there is a table to easily look up all the required ingredients, where to get them, and at what price. This table includes the link to the vendor where the ingredient can be bought. Using this information, the lowest total cost to make a recipe is calculated using the lowest price for each ingredient.
 
 ![indivrecipe](images/recipepage.png)
 
@@ -81,23 +81,23 @@ Both Users and Admins can access a page to see all the vendors in the system.
 ![allvendors](images/vendorspage.png)
 
 ### Vendor Profile Page
-Upon clicking on a vendor, the page will display information for that vendor. This includes the name, image, address, hours, and all available ingredients and their prices. Here, the prices of ingredients can be updated, and new ingredients can be added to that particular store.
+Upon clicking on a vendor, the page will display information for that vendor. This includes the name, image, address, hours, and all available ingredients and their prices. Here, the prices of ingredients can be updated by anyone, and new ingredients can be added to that particular store. If the vendor is one of the default vendors, there is a google maps embed for that store. If it is a vendor that an admin added later, the google maps will show all grocery store around UH Manoa.
 
 ![vendorProfile](images/vendorprofile.png)
 
 ### My Recipes Page
-On this page, Users have access to all the recipes they have created. Here, they can also edit the recipes they have made.
+On this page, Users and Admins have access to all the recipes they have created. Here, they can also edit and delete the recipes they have made.
 
 ![myrecipes](images/myrecipespage.png)
 
 ### Admin Page
-On this page, Admins can see all recipes and vendors in the system. For easier navigation there is a tag on the side to navigate between the two. Here, recipes can be edited, and vendors can be added and edited.
+On this page, Admins can see all recipes, vendors, and ingredients in the system. For easier navigation there is a tag on the side to navigate between the three. Here, recipes, vendors and ingredients can be edited and deleted.
 
 ![myrecipes1](images/adminpage1.png)
 ![myrecipes2](images/adminpage2.png)
 
 ### Edit Recipe Page
-Both Users and Admins can be redirected to this page to edit an existing recipe.
+Both Users and Admins can be redirected to this page to edit an existing recipe. The back button changes depending on whether they are a user or admin
 
 ![myrecipes1](images/editrecipe.png)
 
@@ -112,7 +112,8 @@ Admins can edit existing vendors.
 ![myrecipes1](images/editvendor.png)
 
 ## Community Feedback
-Coming soon!
+We kindly received feedback on the application from 5 UH community members. Here are the results of our findings!
+* 
 
 ## Developer Guide
 
@@ -201,7 +202,10 @@ Milestone 2 was managed using [Microwavin Manoa GitHub Project Board M2](https:/
 
 ### Milestone 3
 
+The goal of Milestone 3 was to continue improving functionality to the site. A big part of this was adding 50 default recipes and 25 default users into the system. We were also continuously implementing some quality of life and UI changes.
+
 Milestone 3 is currently being using [Microwavin Manoa GitHub Project Board M3](https://github.com/microwavin-manoa/microwavin-manoa/projects/3)
+![](images/M2.png)
 
 ## Team
 * [Kailee Hung](https://kaileehung.github.io/), [Carol Wong](https://carolwong492.github.io/), [Jiahui Liao](https://jiahuiliao.github.io/), [Kristyn Mimura](https://kristyn-mimura.github.io/)
