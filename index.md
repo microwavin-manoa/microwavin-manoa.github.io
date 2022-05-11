@@ -93,6 +93,7 @@ Upon clicking on a vendor, the page will display information for that vendor. Th
 On this page, Users and Admins have access to all the recipes they have created. Here, they can also edit and delete the recipes they have made.
 
 ![myrecipes](images/myrecipes.png)
+![norecipes](images/norecipes.png)
 
 ### Edit Recipe Page
 Both Users and Admins can be redirected to this page to edit an existing recipe. The back button changes depending on whether they are a user or admin
@@ -115,7 +116,7 @@ Admins can edit the price and location of existing ingredients.
 ### Add Vendor Page
 Admins can add new vendors into the system with a name, address, image, and hours.
 
-![addvendor](images/addvendorpage.png)
+![addvendor](images/addvendor.png)
 
 ### Edit Vendor Page
 Admins can edit existing vendors.
